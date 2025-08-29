@@ -48,7 +48,7 @@ No scripts. No databases. Just structure and style.
 
 ## 📬 Contact
 
-For feedback or collaboration, reach out via GitHub Issues or email: `yourname@domain.com`
+For feedback or collaboration, reach out via GitHub Issues or email: `koorosh.nrp@gmail.com`
 
 ---
 
