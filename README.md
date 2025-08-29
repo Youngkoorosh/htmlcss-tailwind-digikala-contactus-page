@@ -40,12 +40,6 @@ No interactivity—just clean markup and expressive styling.
 
 Coming soon — static screenshots of the final layout.
 
-## 🧠 Philosophy
-
-> “Code is poetry when it speaks without noise.”  
-This project reflects a belief in clarity, simplicity, and the power of pure markup.  
-No scripts. No databases. Just structure and style.
-
 ## 📬 Contact
 
 For feedback or collaboration, reach out via GitHub Issues or email: `koorosh.nrp@gmail.com`
