@@ -52,4 +52,4 @@ For feedback or collaboration, reach out via GitHub Issues or email: `koorosh.nr
 
 ---
 
-© 2025 Koorosh. Built with love and Tailwind.
+Built with love and Tailwind.
